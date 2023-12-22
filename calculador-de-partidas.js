@@ -1,5 +1,5 @@
 
-let nome_do_heroi = "Mulher Maravilha";
+let nome_do_heroi = "Viúva Negra";
 
 let vitorias = 10;
 
